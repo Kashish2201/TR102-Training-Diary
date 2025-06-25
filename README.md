@@ -11,7 +11,7 @@ Daily Training Diary for TR-102 Internship by Kashish Gujral
 - Basics of Machine Learning
 - Python Programming (General Concepts)
 
-### 🧑‍🏫 Guided By:
+### Guided By:
 Training Instructor (Classroom-Based)
 
 ### 📘 Concepts Learned:
@@ -27,5 +27,5 @@ Training Instructor (Classroom-Based)
 - Arduino UNO Board (Theory)
 - Python (Beginner-level)
 
-### 🤔 Reflections:
+###  Reflections:
 Today's session gave a good foundation of IoT and SmartFusion. I understood how sensors/devices work with microcontrollers like Arduino and how Python is essential for logic in IoT-based systems. Looking forward to practical implementation from tomorrow.
