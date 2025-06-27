@@ -70,3 +70,49 @@ Training Instructor (Classroom-Based)
 
 ###  Reflections:
 Simulators helped me understand connections without hardware. Also started comparing microcontroller boards. Wiring and sensor logic is becoming more clear.
+
+---
+
+##  Day 3 – 27 June 2025 (Thursday)
+
+### ✅ Topics Covered:
+- Cloud Computing for IoT
+- Traditional vs Distributed Computing
+- Goals of Distributed Systems
+- Client-Server Architecture
+- Cluster Computing, Grid Computing & Utility Computing
+- Cloud Computing Basics & Benefits
+- Virtualization & Types of Virtualization
+- Cloud Framework, Service Models (IaaS, PaaS, SaaS)
+- Deployment Models (Public, Private, Hybrid, Community)
+- Introduction to ThingSpeak & MATLAB
+- Connecting ESP8266 (Wi-Fi Module) to Read DHT11 Sensor Data
+- Sending Data to ThingSpeak Cloud via HTTP
+
+###  Guided By:
+Training Instructor (Classroom-Based)
+
+### 📘 Concepts Learned:
+- Cloud computing helps store & process IoT data remotely
+- Distributed computing improves performance across devices
+- ESP8266 is used to connect sensors with the internet
+- DHT11 gives temp & humidity data; ThingSpeak helps visualize it
+- Learned how to connect hardware to ThingSpeak via HTTP request
+- Virtualization allows multiple OS on a single system
+
+###  Tools / Platforms Used:
+- ThingSpeak Cloud Platform
+- ESP8266 Wi-Fi Module
+- DHT11 Sensor
+- MATLAB (linked with ThingSpeak)
+
+###  Tasks & Assignments:
+- 📌 Write difference between:
+  - Google App Engine
+  - Microsoft Azure
+  - Amazon EC2
+- 📌 Complete Wi-Fi based Temperature & Humidity Project
+- 📌 Submit project report after holidays
+
+### Reflections:
+The cloud and IoT connection part was very new for me, but interesting. I understood how data from sensors can be stored and monitored online. Looking forward to completing the Wi-Fi-based mini project during the break.
