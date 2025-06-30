@@ -116,3 +116,39 @@ Training Instructor (Classroom-Based)
 
 ### Reflections:
 The cloud and IoT connection part was very new for me, but interesting. I understood how data from sensors can be stored and monitored online. Looking forward to completing the Wi-Fi-based mini project during the break.
+
+## 📅 Day 4 – 30 June 2025 (Monday)
+
+###  Topics Covered:
+- Data Acquisition in IoT
+- Interfacing ESP32 with DHT22 Sensor
+- Reading Temp & Humidity using Arduino Code
+- Connecting ESP32 to Wi-Fi in Wokwi Simulator
+- Sending Data to ThingSpeak using HTTP GET Request
+- Viewing Sensor Data on ThingSpeak (Graph View)
+
+### 🧑‍🏫 Guided By:
+Training Instructor
+
+### 📘 Concepts Learned:
+- Data acquisition means collecting sensor data for cloud use
+- DHT22 is used for accurate temp & humidity readings
+- ESP32 helps connect to Wi-Fi and send data to the cloud
+- HTTP GET method used to push sensor values to ThingSpeak
+- API keys are needed to write data securely to channels
+- HTTP status code 200 = success → confirmed data upload
+
+###  Tools / Platforms Used:
+- Wokwi Simulator
+- ESP32 + DHT22
+- ThingSpeak Cloud
+- Arduino IDE (Code logic)
+
+###  Task Performed:
+- Simulated ESP32 + DHT22 in Wokwi
+- Wrote Arduino code to read sensor data
+- Sent data to ThingSpeak using correct API key
+- Verified output using HTTP response and live graph
+
+###  Reflections:
+Today’s class was really practical. Sending real-time data to ThingSpeak felt like a proper IoT setup. It helped me understand how cloud and sensor devices actually talk to each other.
