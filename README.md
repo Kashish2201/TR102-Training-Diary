@@ -152,9 +152,6 @@ Training Instructor
 
 ###  Reflections:
 Today’s class was really practical. Sending real-time data to ThingSpeak felt like a proper IoT setup. It helped me understand how cloud and sensor devices actually talk to each other.
-
-
-
 ---
 
 ##  Day 5 – 1 July 2025 (Tuesday)
