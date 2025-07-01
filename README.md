@@ -151,8 +151,8 @@ Training Instructor
 - Verified output using HTTP response and live graph
 
 ###  Reflections:
-Today’s class was really practical. Sending real-time data to ThingSpeak felt like a proper IoT setup. It helped me understand how cloud and sensor devices actually talk to each other.
----
+Today's class was really practical. Sending real time data to Thingspeak felt like a proper IOT setup. It help me understand how cloud and sensor devices actually talk to each other.
+
 
 ##  Day 5 – 1 July 2025 (Tuesday)
 
