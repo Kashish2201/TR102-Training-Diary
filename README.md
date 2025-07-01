@@ -152,3 +152,38 @@ Training Instructor
 
 ###  Reflections:
 Today’s class was really practical. Sending real-time data to ThingSpeak felt like a proper IoT setup. It helped me understand how cloud and sensor devices actually talk to each other.
+
+
+
+## Day 5 – 1 July 2025 (Tuesday)
+
+###  Topics Covered:
+- Light Detection using Photoresistor (LDR)
+- Interfacing Servo Motor with Arduino
+- Sending Sensor and Motor Data to ThingSpeak
+
+###  Guided By:
+Training Instructor
+
+### 📘 Concepts Learned:
+- LDR detects light intensity; resistance changes with light
+- Servo motor rotates to a set angle (used in automation tasks)
+- Arduino reads light value and controls servo angle accordingly
+- Sent sensor and servo data to ThingSpeak using HTTP method
+- Observed real-time updates on ThingSpeak cloud dashboard
+
+### Tools / Platforms Used:
+- Arduino UNO
+- LDR Sensor
+- Servo Motor
+- ThingSpeak Cloud
+- Wokwi Simulator / Arduino IDE
+
+### Tasks Performed:
+- Simulated LDR and Servo Motor circuit
+- Wrote Arduino code to collect light data and rotate servo
+- Used API key to send values to ThingSpeak
+- Monitored live data on ThingSpeak graphs
+
+###  Reflections:
+Working with sensors and actuators together made today's class interesting. Controlling a servo using real-time light input and seeing that data on ThingSpeak was a cool experience.
