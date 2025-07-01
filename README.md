@@ -155,35 +155,38 @@ Today’s class was really practical. Sending real-time data to ThingSpeak felt 
 
 
 
-## Day 5 – 1 July 2025 (Tuesday)
+---
+
+##  Day 5 – 1 July 2025 (Tuesday)
 
 ###  Topics Covered:
-- Light Detection using Photoresistor (LDR)
-- Interfacing Servo Motor with Arduino
-- Sending Sensor and Motor Data to ThingSpeak
+- Overview of Photoresistor (LDR) and Light Detection
+- Basics of Interfacing Servo Motor with Arduino
+- Understanding Analog Input from LDR
+- PWM (Pulse Width Modulation) for Servo Control
+- Sending LDR & Servo Data to ThingSpeak Cloud
 
-###  Guided By:
+### Guided By:
 Training Instructor
 
 ### 📘 Concepts Learned:
-- LDR detects light intensity; resistance changes with light
-- Servo motor rotates to a set angle (used in automation tasks)
-- Arduino reads light value and controls servo angle accordingly
-- Sent sensor and servo data to ThingSpeak using HTTP method
-- Observed real-time updates on ThingSpeak cloud dashboard
+- LDR changes resistance based on light intensity
+- Arduino reads analog signals to measure light levels
+- Servo motor angle is controlled using PWM signals
+- Interfacing both sensor and actuator in one circuit
+- Data from LDR & servo can be uploaded to ThingSpeak using API key
 
 ### Tools / Platforms Used:
 - Arduino UNO
 - LDR Sensor
 - Servo Motor
-- ThingSpeak Cloud
-- Wokwi Simulator / Arduino IDE
+- ThingSpeak Cloud Platform
+- Arduino IDE / Wokwi Simulator
 
-### Tasks Performed:
-- Simulated LDR and Servo Motor circuit
-- Wrote Arduino code to collect light data and rotate servo
-- Used API key to send values to ThingSpeak
-- Monitored live data on ThingSpeak graphs
+###  Tasks Performed:
+- Task 1: Detect light using photoresistor and send data to ThingSpeak
+- Task 2: Interface servo motor, control angle, and send updates to ThingSpeak
+- Observed output on ThingSpeak using HTTP response & graphs
 
-###  Reflections:
-Working with sensors and actuators together made today's class interesting. Controlling a servo using real-time light input and seeing that data on ThingSpeak was a cool experience.
+### Reflections:
+Today’s tasks helped me understand both input and output devices in IoT. Controlling servo based on LDR readings and seeing the result on ThingSpeak felt like a real-world automation example.
