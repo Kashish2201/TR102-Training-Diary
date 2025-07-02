@@ -187,3 +187,46 @@ Training Instructor
 
 ### Reflections:
 Today’s tasks helped me understand both input and output devices in IoT. Controlling servo based on LDR readings and seeing the result on ThingSpeak felt like a real-world automation example.
+
+---
+
+## Day 6 – 2 July 2025 (Wednesday)
+
+###  Topics Covered:
+- Data Preprocessing in Machine Learning
+- Handling Missing Values (NaN)
+- Data Scaling using MinMaxScaler
+- Normalization Techniques
+- Train-Test Split (80% train, 20% test)
+- Python Libraries: Pandas, NumPy, Scikit-learn
+
+### Guided By:
+Training Instructor
+
+### 📘 Concepts Learned:
+- Missing values were handled using mean, median, and mode
+- MinMaxScaler was used to scale features between 0 and 1
+- Normalization helped bring data into the same scale
+- Pandas makes it easy to clean and explore tabular data
+- Learned how train-test split is used to separate data for ML models
+
+### Tools / Platforms Used:
+- Google Colab / Jupyter Notebook
+- Python 3.x
+- Libraries: pandas, numpy, sklearn
+
+###  Tasks Performed:
+- Created a CSV file `student_data.csv` with columns: Name, ID, Math, Science, English
+- Inserted 5–10 rows with some missing (NaN) values
+- Loaded CSV into Pandas DataFrame
+- Counted missing values using `df.isnull().sum()`
+- Filled missing values using:
+  - Mean
+  - Median
+  - Mode
+- Displayed updated dataset after cleaning
+- Performed MinMax Scaling on numeric columns
+- Applied normalization to bring data into 0–1 range
+
+###  Reflections:
+This was my first time working with real dataset cleaning. I liked how pandas made it easy to handle NaN values and scale features. It felt like real data science work.
