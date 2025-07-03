@@ -270,5 +270,5 @@ Training Instructor
 - Practiced code on Kaggle Notebook
 - Assigned to read EDA introduction in detail
 
-###  Reflections:
+### Reflections:
 Today’s class helped me get comfortable with Python graphs. I really liked working on real-time data and using seaborn for clean visuals. Kaggle gave me a good platform to test what I learned.
