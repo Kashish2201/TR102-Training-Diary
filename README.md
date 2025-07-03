@@ -233,42 +233,41 @@ This was my first time working with real dataset cleaning. I liked how pandas ma
 
 ---
 
-## Day 7 – 3 July 2025 (Thursday)
 
-###  Topics Covered:
-- Introduction to Data Visualization
-- Matplotlib: Line Graph, Bar Graph, Scatter Plot, Histogram, Pie Chart
-- Seaborn Basics: Line Plot, Scatter Plot, Box Plot, Heatmap
-- Real-Time Data Monitoring (Live Plotting)
-- Libraries: matplotlib, seaborn, random, time
-- Functions Used: `plt.ion()`, `plt.subplot()`, `range()`, `datetime.now()`, `append()`, `random()`
-- Tips Dataset (for visualization practice)
-- Kaggle Kernel Practice
-- Introduction to Exploratory Data Analysis (EDA)
+
+##  Day 7 – 3 July 2025 (Thursday)
+
+### Topics Covered:
+- Basics of Data Visualization
+- matplotlib: Line, Bar, Scatter, Histogram, Pie Chart
+- Seaborn: Line Plot, Boxplot, Heatmap
+- Tips Dataset (for practice)
+- Real-Time Plotting with `plt.ion()`
+- EDA (Exploratory Data Analysis) Introduction
 
 ###  Guided By:
 Training Instructor
 
 ### 📘 Concepts Learned:
-- Matplotlib is used for static graphs; Seaborn adds styling and simplification
-- `ion()` enables real-time plotting in Python
-- Subplots help create multiple plots in one figure
-- `random` and `datetime` modules are useful for generating & plotting live data
-- Tips dataset helps in understanding patterns like total bill vs tip amount
-- EDA is the first step before applying ML — helps understand data better
+- `matplotlib.pyplot` is used for simple graphs
+- Seaborn is built on matplotlib and gives better styling
+- `sns.boxplot()`, `sns.heatmap()` used on `tips` dataset
+- `plt.ion()` helps make live/real-time plots
+- EDA helps understand data before using ML
 
 ###  Tools / Platforms Used:
-- Google Colab / Jupyter Notebook
 - Kaggle Kernel
-- Python Libraries: matplotlib, seaborn, random, time
+- Python 3.x
+- Libraries: matplotlib, seaborn
+- Dataset: `tips`
 
 ###  Tasks Performed:
-- Plotted line, bar, scatter, histogram, and pie charts using Matplotlib
-- Used Seaborn to create line plots, boxplots, and heatmaps
-- Created a real-time data plot using `ion()`, `append()`, and `datetime`
-- Visualized data from `tips` dataset using seaborn functions
-- Practiced code on Kaggle Notebook
-- Assigned to read EDA introduction in detail
+- Plotted basic graphs using matplotlib
+- Used seaborn for boxplot and heatmap
+- Visualized real-time data using `plt.ion()` and `random` values
+- Practiced on `tips` dataset
+- Read EDA intro to prepare for next topic
 
 ### Reflections:
-Today’s class helped me get comfortable with Python graphs. I really liked working on real-time data and using seaborn for clean visuals. Kaggle gave me a good platform to test what I learned.
+Today’s session was creative. I enjoyed learning how visuals can tell the story of data. Seaborn felt more user-friendly than matplotlib. I’m now curious about exploring EDA in detail.
+
