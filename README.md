@@ -271,3 +271,42 @@ Training Instructor
 ### Reflections:
 Today’s session was creative. I enjoyed learning how visuals can tell the story of data. Seaborn felt more user-friendly than matplotlib. I’m now curious about exploring EDA in detail.
 
+---
+
+## Day 8 – 4 July 2025 (Friday)
+
+###  Topics Covered:
+- Recap of Exploratory Data Analysis (EDA)
+- Why EDA is important before Machine Learning
+- Steps in EDA:
+  - Data Types
+  - Summary Stats
+  - Missing Values
+  - Correlation & Visuals
+- Real-Time IoT Dashboard – Mini Project Introduction
+
+###  Guided By:
+Training Instructor
+
+### 📘 Concepts Learned:
+- EDA helps to understand patterns, data quality, and relationships
+- Before applying ML, data must be cleaned and explored properly
+- IoT Dashboard Project: Sensor → ESP32 → ThingSpeak → Web Page
+- Flow of real-time data from sensor to graph via cloud
+- Custom dashboards can be built using HTML + JS
+
+###  Tools / Platforms Discussed:
+- ESP32 Board
+- Wokwi Simulator
+- ThingSpeak Cloud
+- HTML / JavaScript
+
+###  Tasks Assigned:
+- Prepare overview of EDA with key steps
+- Study the Real-Time IoT Dashboard project flow
+- Understand the architecture: Sensor → WiFi → Cloud → Dashboard
+- Sketch or refer to flowchart showing how data moves in the system
+
+###  Reflections:
+Today’s session gave me better clarity on both data analysis and real-time IoT systems. I found the dashboard idea interesting, and I look forward to building it practically.
+
