@@ -310,3 +310,47 @@ Training Instructor
 ###  Reflections:
 Today’s session gave me better clarity on both data analysis and real-time IoT systems. I found the dashboard idea interesting, and I look forward to building it practically.
 
+---
+
+## Day 9 – 7 July 2025 (Monday)
+
+###  Topics Covered:
+- Introduction to Machine Learning
+- Traditional Programming vs. Machine Learning
+- AI vs ML vs Deep Learning
+- Training vs Testing Phase
+- Types of ML:
+  - Supervised Learning (Classification, Regression)
+  - Unsupervised Learning (Clustering, Association)
+  - Reinforcement Learning (Reward-based Learning)
+- ML Algorithms:
+  - Linear & Logistic Regression
+  - Decision Tree, Random Forest, SVM
+  - K-Means, K-NN, Hierarchical Clustering, PCA
+  - Apriori Algorithm
+  - Basics of Neural Networks
+
+###  Guided By:
+Training Instructor
+
+### 📘 Concepts Learned:
+- ML models learn from data and improve over time
+- Supervised learning uses labeled data; Unsupervised does not
+- Reinforcement learning is based on reward-feedback loop
+- Regression predicts values; classification predicts categories
+- Clustering helps in grouping similar data points
+- Neural networks are the base of deep learning models
+
+###  Tools / Platforms Used:
+- Google Colab / Jupyter Notebook
+- Python 3.x
+- Libraries: pandas, sklearn, numpy, matplotlib
+
+###  Tasks Performed:
+- Wrote differences between Supervised, Unsupervised, and Reinforcement Learning
+- Practiced Linear Regression with a sample dataset
+- Calculated Mean Squared Error (MSE)
+- Understood residuals and plotted regression line
+
+###  Reflections:
+Today gave me a solid understanding of how ML works and the variety of algorithms available. The hands-on with regression helped me understand error metrics and prediction accuracy.
