@@ -354,3 +354,41 @@ Training Instructor
 
 ###  Reflections:
 Today gave me a solid understanding of how ML works and the variety of algorithms available. The hands-on with regression helped me understand error metrics and prediction accuracy.
+
+---
+
+##  Day 10 – 8 July 2025 (Tuesday)
+
+###  Topics Covered:
+- K-Means Clustering Algorithm (Unsupervised Learning)
+- Smart City Case Study – Ludhiana
+- Online Learning in ML
+- Semi-Supervised Learning
+
+###  Guided By:
+Training Instructor
+
+### 📘 Concepts Learned:
+- K-Means groups similar data without labels
+- Centroids are updated until convergence is reached
+- K-Means used in customer segmentation, zone classification, etc.
+- Online Learning is for continuous data (used in fraud detection, recommender systems)
+- Semi-Supervised Learning uses both labeled and unlabeled data
+- ML can be applied to real-world smart city problems
+
+###  Tools / Platforms Used:
+- Google Colab / Python
+- Libraries: sklearn, matplotlib, seaborn, pandas
+
+###  Tasks Performed:
+- Implemented K-Means Clustering on sample unlabeled dataset
+- Visualized how data points were grouped into clusters
+- Observed how centroids change with each iteration
+- Discussed how ML could help Ludhiana with traffic, pollution, waste, etc.
+
+###  Case Study: Smart City – Ludhiana
+- Issues found: Traffic, pollution, semi-automated waste system
+- Discussed use of K-Means to classify city zones for improvement
+
+###  Reflections:
+Learning clustering through K-Means was easy to follow and fun to visualize. The Ludhiana Smart City case helped me see how ML can be useful in urban planning and real problems.
