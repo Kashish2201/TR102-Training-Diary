@@ -386,6 +386,47 @@ Training Instructor
 - Observed how centroids change with each iteration
 - Discussed how ML could help Ludhiana with traffic, pollution, waste, etc.
 
+---
+
+##  Day 11 – 9 July 2025 (Wednesday)
+
+###  Topics Covered:
+- K-Nearest Neighbors (KNN) Algorithm
+- How to choose the right algorithm for ML projects
+- Concept of Confusion Matrix
+- Accuracy & Precision Formula
+- Project Title Finalization & Objective Writing
+
+###  Guided By:
+Training Instructor
+
+### 📘 Concepts Learned:
+- KNN is used for classification based on nearest data points
+- Steps: Choose K, calculate distances, pick K nearest, assign most common class
+- KNN is simple, works well for small datasets
+- Confusion Matrix helps evaluate classification results
+- Accuracy = (TP + TN) / (TP + TN + FP + FN)
+- Precision = TP / (TP + FP)
+- Different algorithms perform differently based on data type and size
+
+###  Tools / Platforms Used:
+- Python (scikit-learn)
+- Colab / Jupyter Notebook
+
+###  Tasks Performed:
+- Understood how KNN works with real data
+- Compared different algorithms to use for our ML + IoT project
+- Discussed confusion matrix and its importance in evaluation
+- Finalized our project title and noted down its objective
+- Assigned to read review paper and methodology for project preparation
+
+### Project Work:
+- Finalized project title
+- Wrote basic objectives and discussed possible ML models to use
+
+###  Reflections:
+KNN was easy to understand and gave clarity on how predictions are made. Confusion matrix added a new way to judge model performance. Finalizing the project made today’s session feel more real and focused.
+
 ###  Case Study: Smart City – Ludhiana
 - Issues found: Traffic, pollution, semi-automated waste system
 - Discussed use of K-Means to classify city zones for improvement
