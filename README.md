@@ -433,3 +433,43 @@ Training Instructor
 
 ###  Reflections:
 KNN was easy to understand and gave clarity on how predictions are made. Confusion matrix added a new way to judge model performance. Finalizing the project made today’s session feel more real and focused.
+
+---
+
+##  Day 12 – 10 July 2025 (Thursday)
+
+### Topics Covered:
+- Overfitting, Underfitting, and Best Fit in ML
+- Introduction to Cross Validation
+- How Cross Validation helps avoid Overfitting/Underfitting
+- Project Methodology Discussion
+- Finalizing Report Format
+- Started Component Listing for Project
+
+###  Guided By:
+Training Instructor
+
+### 📘 Concepts Learned:
+- Overfitting: Model performs well on training but poorly on test data
+- Underfitting: Model performs poorly on both training and test data
+- Best Fit: Balanced model that generalizes well
+- Cross Validation (e.g., K-Fold) helps validate model accuracy on different splits
+- Model should avoid both underfitting and overfitting for real-world tasks
+
+###  Tools / Platforms Used:
+- Python, sklearn (for cross-validation)
+- Jupyter / Colab
+- Word/Docs for report writing
+
+###  Tasks Performed:
+- Discussed examples of overfit and underfit models
+- Learned how cross-validation splits data and improves model selection
+- Started drafting the methodology section for our project report
+- Finalized components to be used in the project and started noting technical requirements
+
+###  Project Progress:
+- Methodology section started (includes tools, algorithms, hardware)
+- Component checklist prepared (e.g., ESP32, DHT11, PIR, NodeMCU, etc.)
+
+###  Reflections:
+Today’s session helped me clearly understand the problems of overfitting and underfitting. Cross-validation gave me confidence about how to improve model performance. Starting with project methodology and listing components made things feel real and close to build stage.
