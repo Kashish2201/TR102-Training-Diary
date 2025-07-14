@@ -473,3 +473,36 @@ Training Instructor
 
 ###  Reflections:
 Today’s session helped me clearly understand the problems of overfitting and underfitting. Cross-validation gave me confidence about how to improve model performance. Starting with project methodology and listing components made things feel real and close to build stage.
+
+---
+
+##  Day 13 – 11 July 2025 (Friday)
+
+### Topics Covered:
+- Project Progress Review
+- Team Coordination & Task Management
+- Introduction to Blynk App for IoT Interface
+
+###  Guided By:
+Training Instructor
+
+### 📘 Key Learnings:
+- Regular updates help track progress and avoid delays
+- Proper role division improves overall teamwork
+- Blynk is useful for creating real-time dashboards for IoT-based systems
+
+###  Tools / Platforms Used:
+- Blynk App (for project interface planning)
+- Google Docs / Sheets (for tracking roles and tasks)
+
+###  Tasks Performed:
+- Shared individual updates on review paper, dataset collection, and model search
+- Coordinated tasks among team members
+- Explored how Blynk works for IoT dashboard creation
+- Listed remaining tasks and assigned team-wise responsibility
+
+###  Project Work:
+- Reviewed overall progress
+- Finalized pending tasks with responsible members
+- Continued research and setup for project implementation
+- 
