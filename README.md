@@ -20,6 +20,7 @@
   <a href="Daily diary/Training Diary Day 17.pdf"><img src="https://img.shields.io/badge/Day%2017-blue?style=for-the-badge"></a>
 </p>
 
+
 # TR102-Training-Diary
 Daily Training Diary for TR-102 Internship by Kashish Gujral
 ## Day 1 – 25 June 2025 (Tuesday)
