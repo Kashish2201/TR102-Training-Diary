@@ -1,3 +1,26 @@
+## Daily Diary Quick Access
+
+<p align="center">
+  <a href="Daily%20diary/Training%20Diary%20Day%2001.pdf"><img src="https://img.shields.io/badge/Day%201-blue?style=for-the-badge"></a>
+  <a href="Daily%20diary/Training%20Diary%20Day%2002.pdf"><img src="https://img.shields.io/badge/Day%202-blue?style=for-the-badge"></a>
+  <a href="Daily%20diary/Training%20Diary%20Day%2003.pdf"><img src="https://img.shields.io/badge/Day%203-blue?style=for-the-badge"></a>
+  <a href="Daily%20diary/Training%20Diary%20Day%2004.pdf"><img src="https://img.shields.io/badge/Day%204-blue?style=for-the-badge"></a>
+  <a href="Daily%20diary/Training%20Diary%20Day%2005.pdf"><img src="https://img.shields.io/badge/Day%205-blue?style=for-the-badge"></a>
+  <a href="Daily%20diary/Training%20Diary%20Day%2006.pdf"><img src="https://img.shields.io/badge/Day%206-blue?style=for-the-badge"></a>
+  <a href="Daily%20diary/Training%20Diary%20Day%2007.pdf"><img src="https://img.shields.io/badge/Day%207-blue?style=for-the-badge"></a>
+  <a href="Daily%20diary/Training%20Diary%20Day%2008.pdf"><img src="https://img.shields.io/badge/Day%208-blue?style=for-the-badge"></a>
+  <a href="Daily%20diary/Training%20Diary%20Day%2009.pdf"><img src="https://img.shields.io/badge/Day%209-blue?style=for-the-badge"></a>
+  <a href="Daily%20diary/Training%20Diary%20Day%2010.pdf"><img src="https://img.shields.io/badge/Day%2010-blue?style=for-the-badge"></a>
+  <a href="Daily%20diary/Training%20Diary%20Day%2011.pdf"><img src="https://img.shields.io/badge/Day%2011-blue?style=for-the-badge"></a>
+  <a href="Daily%20diary/Training%20Diary%20Day%2012.pdf"><img src="https://img.shields.io/badge/Day%2012-blue?style=for-the-badge"></a>
+  <a href="Daily%20diary/Training%20Diary%20Day%2013.pdf"><img src="https://img.shields.io/badge/Day%2013-blue?style=for-the-badge"></a>
+  <a href="Daily%20diary/Training%20Diary%20Day%2014.pdf"><img src="https://img.shields.io/badge/Day%2014-blue?style=for-the-badge"></a>
+  <a href="Daily%20diary/Training%20Diary%20Day%2015.pdf"><img src="https://img.shields.io/badge/Day%2015-blue?style=for-the-badge"></a>
+  <a href="Daily%20diary/Training%20Diary%20Day%2016.pdf"><img src="https://img.shields.io/badge/Day%2016-blue?style=for-the-badge"></a>
+  <a href="Daily%20diary/Training%20Diary%20Day%2017.pdf"><img src="https://img.shields.io/badge/Day%2017-blue?style=for-the-badge"></a>
+</p>
+
+
 # TR102-Training-Diary
 Daily Training Diary for TR-102 Internship by Kashish Gujral
 ## Day 1 – 25 June 2025 (Tuesday)
