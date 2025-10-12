@@ -9,7 +9,7 @@
       min-height: 100vh;
       margin: 0;
       padding: 0;
-      background: #ffffff; /* white background*/
+      background: #ffffff; /* white background */
       color: #1A1A1A;
       font-family: sans-serif;
       text-align: center;
@@ -20,7 +20,7 @@
       border-radius: 20px;
       width: 340px;
       margin: 25px auto 16px auto;
-      box-shadow: 0 0 30px #191920;
+      box-shadow: 0 0 16px #ececec;
     }
     .button {
       margin:8px 5px 0 5px;
@@ -28,11 +28,18 @@
       border:none;
       border-radius:7px;
       font-size:18px;
+      box-shadow:0 2px 8px #eee;
+      cursor:pointer;
+      transition: background 0.2s;
     }
-    .main-btn { background:#2196f3;color:#fff;}
-    .cert-btn { background:#26d17c;color:#fff;}
-    .final-btn { background:#019267;color:#fff;}
-    .proj-btn { background:#2e1a54;color:#fff;}
+    .main-btn { background:#b3e5fc; color:#19647e; }
+    .main-btn:hover { background:#81d4fa; }
+    .cert-btn { background:#c9f7d1;color:#228c49; }
+    .cert-btn:hover { background:#a5e1b2; }
+    .final-btn { background:#fff9c4;color:#947002; }
+    .final-btn:hover { background:#fff176; }
+    .proj-btn { background:#e1caff;color:#5d3ab4; }
+    .proj-btn:hover { background:#d0aaff; }
     .grid {
       display: grid;
       grid-template-columns: repeat(3, 120px);
@@ -42,7 +49,7 @@
       margin-bottom:20px;
     }
     h2, h3 { margin-bottom:10px;}
-    h3 { color:#ffe869;}
+    h3 { color:#3b5177;}
   </style>
 </head>
 <body>
